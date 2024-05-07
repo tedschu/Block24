@@ -13,6 +13,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+#menu {
+  padding: 10px;
+  border: 1px solid grey;
+}
+
+.pupDetail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: mistyrose;
+}
+
+
+
+
+
+
+
+
+
 a {
   font-weight: 500;
   color: #646cff;
